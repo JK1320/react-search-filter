@@ -21,4 +21,4 @@ const Table = ({data}) => {
   );
 }
 
-export default Table
+export default Table;
