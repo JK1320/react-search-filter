@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 how to filter in react
 
+
+*    New major version of npm available! 6.12.0 → 9.1.2       │
+   │   Changelog: https://github.com/npm/cli/releases/tag/v9.1.2   │
+   │               Run npm install -g npm to update!               │
+   │                                                   
+
+   * ----------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
