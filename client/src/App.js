@@ -10,11 +10,11 @@ function App() {
 
   useEffect(() => {
 const fetchUsers = async () => {
-  const res = await axios.get("http://localhost:5001");
+  const res = await axios.get(`http://localhost:5001?q=${query}`);
   setData(res.data);
 }
 fetchUsers();
-  }, []);
+  }, [query]);
 
   return (
     <div className="App">
